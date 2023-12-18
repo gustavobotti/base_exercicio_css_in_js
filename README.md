@@ -1,3 +1,9 @@
+#
+Projeto react usando styled-components, arquivos index.tsx para a página e x.ts para os estilos
+Testei uso do props
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
