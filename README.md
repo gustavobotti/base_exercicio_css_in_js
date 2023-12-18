@@ -1,5 +1,7 @@
 #
 Projeto react usando styled-components, arquivos index.tsx para a página e x.ts para os estilos
+
+
 Testei uso do props
 
 
